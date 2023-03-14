@@ -2,7 +2,7 @@
 
 This is my project for Coding 2 for the MSC in creative computing.
 
-![https://raw.githubusercontent.com/mkh7878/VisualTheramin/main/Screenshot%202023-03-14%20at%2012.27.45%20pm.png](https://www.youtube.com/watch?v=YYLr4fz8Uac)
+[![](https://raw.githubusercontent.com/mkh7878/VisualTheramin/main/Screenshot%202023-03-14%20at%2012.27.45%20pm.png)](https://www.youtube.com/watch?v=YYLr4fz8Uac)
 
 My project is called the "Visual Theremin". It allows the user to draw on the screen while also controlling two oscillators both playing a D minor pentatonic scale. 
 
