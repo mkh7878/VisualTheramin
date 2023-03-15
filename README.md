@@ -1,6 +1,6 @@
 ## [Visual Theramin](https://github.com/mkh7878/VisualTheramin)
 
-This is my project for Coding 2 for the MSC in creative computing.
+This is my project for Coding 2 for the MSC in creative computing. [(github link)](https://github.com/mkh7878/VisualTheramin)
 
 [![](https://raw.githubusercontent.com/mkh7878/VisualTheramin/main/Screenshot%202023-03-14%20at%2012.27.45%20pm.png)](https://www.youtube.com/watch?v=YYLr4fz8Uac)
 
