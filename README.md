@@ -1,4 +1,4 @@
-## Visual Theramin
+## [Visual Theramin](https://github.com/mkh7878/VisualTheramin)
 
 This is my project for Coding 2 for the MSC in creative computing.
 
